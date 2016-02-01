@@ -1,0 +1,65 @@
+/*
+ * Custom Styles
+ * --------------------------------------------------
+ */
+div.navbar-brand.website-name, div.navbar-brand.website-name:hover  {
+  padding-right: 60px;
+  color: #999;
+}
+
+.samples .row {
+	margin: 0px;
+}
+
+.samples  .featurette-heading {
+	margin-top: 20px;
+	font-size: 40px;
+}
+
+.samples  .lead {
+	font-size: 21px; 
+
+}
+
+.samples .important-note {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.samples img.profile {
+
+	border: 5px;
+	border-color: #eee;
+}
+
+.spaced p {
+
+	margin-top: 20px;
+	line-height: 20px;
+
+}
+
+.samples .notes {
+	font-size: 11px !important;
+}
+
+.samples .notes {
+	font-size: 11px !important;
+}
+
+.samples-images img
+{
+	margin-top: 5px;
+	margin-bottom: 20px;
+	max-width:85%;
+
+}
+
+.samples .sample-column {
+
+	padding-left: 25px;
+	padding-right: 25px;
+
+}
+
+
