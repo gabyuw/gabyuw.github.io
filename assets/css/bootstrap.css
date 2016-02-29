@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,300");
+
 /*!
  * Bootstrap v3.1.1 (http://getbootstrap.com)
  * Copyright 2011-2014 Twitter, Inc.
@@ -273,7 +275,8 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family: "Lato", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
@@ -455,7 +458,7 @@ h3,
 }
 h4,
 .h4 {
-  font-size: 18px;
+  font-size: 16px;
 }
 h5,
 .h5 {
@@ -5779,9 +5782,26 @@ button.close {
     display: table-cell !important;
   }
 }
+
 @media print {
   .hidden-print {
     display: none !important;
   }
+}
+
+.row-odd {
+	background-color:bababa;
+	
+}
+
+.caption-note {
+	color: #727272;
+	font-size:10px;
+	font-style:italic;
+	
+}
+
+.center-text {
+    text-align: center;
 }
 
