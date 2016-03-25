@@ -62,4 +62,20 @@ div.navbar-brand.website-name, div.navbar-brand.website-name:hover  {
 
 }
 
+.col-space {
+	margin-bottom: 15px;
+}
+
+.list-space li {
+	margin-top: 5px;
+}
+
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+	
+.centered {
+	text-align:center 
+}
 
